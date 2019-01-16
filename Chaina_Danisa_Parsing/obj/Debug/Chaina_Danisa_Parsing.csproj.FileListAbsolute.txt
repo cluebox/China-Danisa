@@ -1,0 +1,8 @@
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\bin\Debug\Chaina_Danisa_Parsing.exe.config
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\bin\Debug\Chaina_Danisa_Parsing.exe
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\bin\Debug\Chaina_Danisa_Parsing.pdb
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\bin\Debug\SpssLib.dll
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\bin\Debug\SpssLib.xml
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\obj\Debug\Chaina_Danisa_Parsing.csprojResolveAssemblyReference.cache
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\obj\Debug\Chaina_Danisa_Parsing.exe
+D:\Dotnet project\Chaina_Danisa_Parsing\Chaina_Danisa_Parsing\obj\Debug\Chaina_Danisa_Parsing.pdb
